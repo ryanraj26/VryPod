@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VryPod'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'This is a library for VryCustom UI Components'
 
 # This description is used to generate tags and improve search results.

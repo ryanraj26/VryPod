@@ -56,7 +56,7 @@ open class VryButton: UIButton {
     
     private func configureButton() {
         self.snp.makeConstraints {
-            $0.height.equalTo(40)
+            $0.height.equalTo(50)
         }
         self.clipsToBounds = true
         
