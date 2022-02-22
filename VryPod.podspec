@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'VryPod'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of VryPod.'
+  s.summary          = 'This is a library for VryCustom UI Components'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  'This is a library for VryCustom UI Components. Import and use the UI components'
                        DESC
 
   s.homepage         = 'https://github.com/ryanraj26/VryPod'
@@ -30,7 +30,12 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '11.0'
 
-  s.source_files = 'VryPod/Classes/**/*'
+  s.source_files = 'Classes/**/*.swift'
+  s.swift_version = "5.3"
+  
+  s.platforms = {
+      "ios": "11.0"
+  }
   
   # s.resource_bundles = {
   #   'VryPod' => ['VryPod/Assets/*.png']
