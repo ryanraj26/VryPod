@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>east_black_24dp</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-370.000000, -347.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="east_black_24dp" transform="translate(385.000000, 362.000000) rotate(180.000000) translate(-385.000000, -362.000000) translate(370.000000, 347.000000)">
+                <path d="M20.2241379,12 L30,21 L20.2241379,30 L18.2410345,28.1871429 L24.6512069,22.2857143 L2.06896552,22.2857143 L2.06896552,19.7142857 L24.6512069,19.7142857 L18.255,13.8128571 L20.2241379,12 Z M9.77586207,-7.10542736e-15 L11.7589655,1.81285714 L5.3487931,7.71428571 L27.9310345,7.71428571 L27.9310345,10.2857143 L5.3487931,10.2857143 L11.745,16.1871429 L9.77586207,18 L0,9 L9.77586207,-7.10542736e-15 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

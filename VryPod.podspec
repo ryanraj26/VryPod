@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VryPod'
-  s.version          = '0.2.0'
+  s.version          = '0.4.0'
   s.summary          = 'This is a library for VryCustom UI Components'
 
 # This description is used to generate tags and improve search results.
@@ -37,9 +37,12 @@ Pod::Spec.new do |s|
       "ios": "11.0"
   }
   
-  # s.resource_bundles = {
-  #   'VryPod' => ['VryPod/Assets/*.png']
-  # }
+  s.resources = "VryPod/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+
+  
+#   s.resource_bundles = {
+#     'VryPod' => ['VryPod/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}']
+#   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
