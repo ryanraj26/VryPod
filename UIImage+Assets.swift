@@ -14,7 +14,7 @@ public extension UIImage {
         return UIImage(named: name.rawValue) ?? UIImage()
     }
     
-    func aspectFitImage(inSize size: CGSize, fillColor: VColor? = nil) -> UIImage? {
+    static func aspectFitImage(inSize size: CGSize, fillColor: VColor? = nil) -> UIImage? {
         let width = self.size.width
         let height = self.size.height
         let aspectWidth = size.width / width

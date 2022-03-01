@@ -30,14 +30,14 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '11.0'
 
-  s.source_files = 'Classes/**/*.swift'
+  s.source_files = '**/*.{h,m,swift,xcassets}'
   s.swift_version = "5.3"
   
   s.platforms = {
       "ios": "11.0"
   }
   
-  s.resources = "VryPod/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+  s.resources = "**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
   
 #   s.resource_bundles = {
@@ -45,7 +45,7 @@ Pod::Spec.new do |s|
 #   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+   s.frameworks = 'XCTest'
   # s.dependency 'AFNetworking', '~> 2.3'
   s.dependency 'SnapKit', '~> 5.0.1'
 end

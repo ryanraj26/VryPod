@@ -81,7 +81,7 @@ open class VryButton: UIButton {
         
 //        self.clipsToBounds = true
         if let text = text {
-            titleLabel!.font = .vryAvenirNextDemiBold(13)!//UIFont(name: "AvenirNext-DemiBold", size: size)
+            titleLabel!.font = UIFont.vryAvenirNextDemiBold(13)!//UIFont(name: "AvenirNext-DemiBold", size: size)
             setTitle(text.localizedUppercase, for: .normal)
         }
         
