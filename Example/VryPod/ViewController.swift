@@ -54,6 +54,7 @@ class ViewController: UIViewController {
     private lazy var button: VryButton = {
         let button = VryButton(nil)
 //        button.isUserInteractionEnabled = true
+        
         button.setImage(UIImage.named(.vaultLogoWhite), for: .normal)
         button.addTarget(self, action: #selector(clicked), for: .touchUpInside)
         customView.addSubview(button)

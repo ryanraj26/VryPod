@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>account_balance_black_24dp (1)</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-518.000000, -296.000000)">
+            <g id="account_balance_black_24dp-(1)" transform="translate(518.000000, 296.000000)">
+                <rect id="Rectangle" x="0" y="0" width="30" height="30"></rect>
+                <g id="Group" transform="translate(2.500000, 1.250000)" fill="#000000" fill-rule="nonzero">
+                    <rect id="Rectangle" x="2.5" y="11.25" width="3.75" height="8.75"></rect>
+                    <rect id="Rectangle" x="10.625" y="11.25" width="3.75" height="8.75"></rect>
+                    <rect id="Rectangle" x="0" y="22.5" width="15" height="3.75"></rect>
+                    <rect id="Rectangle" x="18.75" y="11.25" width="3.75" height="5"></rect>
+                    <polygon id="Path" points="12.5 0 0 6.25 0 8.75 25 8.75 25 6.25"></polygon>
+                    <polygon id="Path" points="17 25.375 17 27.25 18.875 27.25 24.405 21.72 22.53 19.845"></polygon>
+                    <path d="M25.855,20.27 C26.05,20.075 26.05,19.76 25.855,19.565 L24.685,18.395 C24.49,18.2 24.175,18.2 23.98,18.395 L23.065,19.31 L24.94,21.185 L25.855,20.27 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

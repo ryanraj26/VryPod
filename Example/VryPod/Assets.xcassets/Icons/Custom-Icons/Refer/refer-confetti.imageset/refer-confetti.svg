@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="191px" viewBox="0 0 375 191" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>refer-bg</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="refer-bg">
+            <polygon id="Rectangle" fill-rule="nonzero" points="0 0 375 0 375 191 0 191"></polygon>
+            <polygon id="Polygon" stroke="#D363A8" transform="translate(10.215335, 120.864783) rotate(46.000000) translate(-10.215335, -120.864783) " points="10.215335 115.544495 15.8094172 119.608834 13.672668 126.185072 6.75800217 126.185072 4.62125294 119.608834"></polygon>
+            <circle id="Oval" stroke="#6DACD7" transform="translate(74.306855, 165.827603) rotate(46.000000) translate(-74.306855, -165.827603) " cx="74.3068553" cy="165.827603" r="6.5"></circle>
+            <circle id="Oval" stroke="#6DACD7" transform="translate(74.306855, 165.827603) rotate(46.000000) translate(-74.306855, -165.827603) " cx="74.3068553" cy="165.827603" r="2.5"></circle>
+            <g id="Dots-square" transform="translate(25.222269, 164.794365) rotate(46.000000) translate(-25.222269, -164.794365) translate(19.722269, 159.294365)" fill="#F96519" fill-rule="nonzero">
+                <circle id="Oval" cx="1.375" cy="1.375" r="1.375"></circle>
+                <circle id="Oval" cx="5.5" cy="1.375" r="1.375"></circle>
+                <circle id="Oval" cx="9.625" cy="1.375" r="1.375"></circle>
+                <circle id="Oval" cx="1.375" cy="5.5" r="1.375"></circle>
+                <circle id="Oval" cx="5.5" cy="5.5" r="1.375"></circle>
+                <circle id="Oval" cx="9.625" cy="5.5" r="1.375"></circle>
+                <circle id="Oval" cx="1.375" cy="9.625" r="1.375"></circle>
+                <circle id="Oval" cx="5.5" cy="9.625" r="1.375"></circle>
+                <circle id="Oval" cx="9.625" cy="9.625" r="1.375"></circle>
+            </g>
+            <g id="Jagged-line" stroke-linecap="square" transform="translate(110.522288, 175.492325) rotate(130.000000) translate(-110.522288, -175.492325) translate(98.522288, 173.492325)" stroke="#6451B6">
+                <line x1="0.716981132" y1="3.51351351" x2="3.58490566" y2="0.702702703" id="Line-11"></line>
+                <line x1="3.58490566" y1="3.5135133" x2="6.45283019" y2="0.70270249" id="Line-11" transform="translate(5.018868, 2.108108) scale(-1, 1) rotate(-180.000000) translate(-5.018868, -2.108108) "></line>
+                <line x1="6.45283019" y1="3.51351351" x2="9.32075472" y2="0.702702703" id="Line-11"></line>
+                <line x1="9.32075472" y1="3.5135133" x2="12.1886792" y2="0.70270249" id="Line-11" transform="translate(10.754717, 2.108108) scale(-1, 1) rotate(-180.000000) translate(-10.754717, -2.108108) "></line>
+                <line x1="12.1886792" y1="3.51351351" x2="15.0566038" y2="0.702702703" id="Line-11"></line>
+                <line x1="15.0566038" y1="3.5135133" x2="17.9245283" y2="0.70270249" id="Line-11" transform="translate(16.490566, 2.108108) scale(-1, 1) rotate(-180.000000) translate(-16.490566, -2.108108) "></line>
+                <line x1="17.9245283" y1="3.51351351" x2="20.7924528" y2="0.702702703" id="Line-11"></line>
+                <line x1="20.7924528" y1="3.5135133" x2="23.6603774" y2="0.70270249" id="Line-11" transform="translate(22.226415, 2.108108) scale(-1, 1) rotate(-180.000000) translate(-22.226415, -2.108108) "></line>
+            </g>
+            <g id="Jagged-line" stroke-linecap="square" transform="translate(110.522288, 175.492325) rotate(130.000000) translate(-110.522288, -175.492325) translate(98.522288, 173.492325)" stroke="#6451B6">
+                <line x1="0.716981132" y1="3.51351351" x2="3.58490566" y2="0.702702703" id="Line-11"></line>
+                <line x1="3.58490566" y1="3.5135133" x2="6.45283019" y2="0.70270249" id="Line-11" transform="translate(5.018868, 2.108108) scale(-1, 1) rotate(-180.000000) translate(-5.018868, -2.108108) "></line>
+                <line x1="6.45283019" y1="3.51351351" x2="9.32075472" y2="0.702702703" id="Line-11"></line>
+                <line x1="9.32075472" y1="3.5135133" x2="12.1886792" y2="0.70270249" id="Line-11" transform="translate(10.754717, 2.108108) scale(-1, 1) rotate(-180.000000) translate(-10.754717, -2.108108) "></line>
+                <line x1="12.1886792" y1="3.51351351" x2="15.0566038" y2="0.702702703" id="Line-11"></line>
+                <line x1="15.0566038" y1="3.5135133" x2="17.9245283" y2="0.70270249" id="Line-11" transform="translate(16.490566, 2.108108) scale(-1, 1) rotate(-180.000000) translate(-16.490566, -2.108108) "></line>
+                <line x1="17.9245283" y1="3.51351351" x2="20.7924528" y2="0.702702703" id="Line-11"></line>
+                <line x1="20.7924528" y1="3.5135133" x2="23.6603774" y2="0.70270249" id="Line-11" transform="translate(22.226415, 2.108108) scale(-1, 1) rotate(-180.000000) translate(-22.226415, -2.108108) "></line>
+            </g>
+            <polygon id="Polygon" stroke="#D363A8" transform="translate(11.381735, 47.411082) rotate(56.000000) translate(-11.381735, -47.411082) " points="11.3817354 43.5703451 15.3974662 46.5031618 13.8625398 51.2518187 8.90093091 51.2518187 7.36600452 46.5031618"></polygon>
+            <ellipse id="Oval" stroke="#8AC842" transform="translate(249.395974, 114.949698) rotate(56.000000) translate(-249.395974, -114.949698) " cx="249.395974" cy="114.949698" rx="4.87735849" ry="4.90540541"></ellipse>
+            <ellipse id="Oval" fill="#8AC842" fill-rule="nonzero" transform="translate(249.395974, 114.949698) rotate(56.000000) translate(-249.395974, -114.949698) " cx="249.395974" cy="114.949698" rx="2.1509434" ry="2.16216216"></ellipse>
+            <g id="Dots-square" transform="translate(44.443081, 78.122361) rotate(56.000000) translate(-44.443081, -78.122361) translate(39.943081, 73.622361)" fill="#FC8D55" fill-rule="nonzero">
+                <ellipse id="Oval" cx="1.0754717" cy="1.08108108" rx="1.0754717" ry="1.08108108"></ellipse>
+                <ellipse id="Oval" cx="4.30188679" cy="1.08108108" rx="1.0754717" ry="1.08108108"></ellipse>
+                <ellipse id="Oval" cx="7.52830189" cy="1.08108108" rx="1.0754717" ry="1.08108108"></ellipse>
+                <ellipse id="Oval" cx="1.0754717" cy="4.32432432" rx="1.0754717" ry="1.08108108"></ellipse>
+                <ellipse id="Oval" cx="4.30188679" cy="4.32432432" rx="1.0754717" ry="1.08108108"></ellipse>
+                <ellipse id="Oval" cx="7.52830189" cy="4.32432432" rx="1.0754717" ry="1.08108108"></ellipse>
+                <ellipse id="Oval" cx="1.0754717" cy="7.56756757" rx="1.0754717" ry="1.08108108"></ellipse>
+                <ellipse id="Oval" cx="4.30188679" cy="7.56756757" rx="1.0754717" ry="1.08108108"></ellipse>
+                <ellipse id="Oval" cx="7.52830189" cy="7.56756757" rx="1.0754717" ry="1.08108108"></ellipse>
+            </g>
+            <g id="Jagged-line" stroke-linecap="square" transform="translate(73.600585, 105.553204) rotate(76.000000) translate(-73.600585, -105.553204) translate(64.600585, 104.053204)" stroke="#F9C163">
+                <line x1="0.537735849" y1="2.7027027" x2="2.68867925" y2="0.540540541" id="Line-11"></line>
+                <line x1="2.68867925" y1="2.70270346" x2="4.83962264" y2="0.5405413" id="Line-11" transform="translate(3.764151, 1.621622) scale(-1, 1) rotate(-180.000000) translate(-3.764151, -1.621622) "></line>
+                <line x1="4.83962264" y1="2.7027027" x2="6.99056604" y2="0.540540541" id="Line-11"></line>
+                <line x1="6.99056604" y1="2.70270346" x2="9.14150943" y2="0.5405413" id="Line-11" transform="translate(8.066038, 1.621622) scale(-1, 1) rotate(-180.000000) translate(-8.066038, -1.621622) "></line>
+                <line x1="9.14150943" y1="2.7027027" x2="11.2924528" y2="0.540540541" id="Line-11"></line>
+                <line x1="11.2924528" y1="2.70270346" x2="13.4433962" y2="0.5405413" id="Line-11" transform="translate(12.367925, 1.621622) scale(-1, 1) rotate(-180.000000) translate(-12.367925, -1.621622) "></line>
+                <line x1="13.4433962" y1="2.7027027" x2="15.5943396" y2="0.540540541" id="Line-11"></line>
+                <line x1="15.5943396" y1="2.70270346" x2="17.745283" y2="0.5405413" id="Line-11" transform="translate(16.669811, 1.621622) scale(-1, 1) rotate(-180.000000) translate(-16.669811, -1.621622) "></line>
+            </g>
+            <rect id="Rectangle" fill="#FC8D55" fill-rule="nonzero" transform="translate(45.639563, 47.853659) rotate(56.000000) translate(-45.639563, -47.853659) " x="43.4886196" y="45.6914972" width="4.30188679" height="4.32432432" rx="1"></rect>
+            <g id="Confetti" opacity="0.98" transform="translate(157.850067, 77.122146) rotate(178.000000) translate(-157.850067, -77.122146) translate(108.350067, 61.122146)">
+                <polygon id="Polygon" stroke="#D363A8" points="3.37137335 24.4150041 6.49757153 26.678313 5.3041885 30.3382205 1.43855819 30.3382205 0.24517516 26.678313"></polygon>
+                <ellipse id="Oval" stroke="#328A8B" cx="94.7571363" cy="4.13409436" rx="3.83962264" ry="3.82432432"></ellipse>
+                <ellipse id="Oval" fill="#328A8B" fill-rule="nonzero" cx="94.7571363" cy="4.13409436" rx="1.73584906" ry="1.72972973"></ellipse>
+                <g id="Jagged-line" stroke-linecap="square" transform="translate(83.668558, 27.556748) rotate(20.000000) translate(-83.668558, -27.556748) translate(76.168558, 26.056748)" stroke="#F9C163">
+                    <line x1="0.433962264" y1="2.16216216" x2="2.16981132" y2="0.432432432" id="Line-11"></line>
+                    <line x1="2.16981132" y1="2.16216157" x2="3.90566038" y2="0.43243184" id="Line-11" transform="translate(3.037736, 1.297297) scale(-1, 1) rotate(-180.000000) translate(-3.037736, -1.297297) "></line>
+                    <line x1="3.90566038" y1="2.16216216" x2="5.64150943" y2="0.432432432" id="Line-11"></line>
+                    <line x1="5.64150943" y1="2.16216157" x2="7.37735849" y2="0.43243184" id="Line-11" transform="translate(6.509434, 1.297297) scale(-1, 1) rotate(-180.000000) translate(-6.509434, -1.297297) "></line>
+                    <line x1="7.37735849" y1="2.16216216" x2="9.11320755" y2="0.432432432" id="Line-11"></line>
+                    <line x1="9.11320755" y1="2.16216157" x2="10.8490566" y2="0.43243184" id="Line-11" transform="translate(9.981132, 1.297297) scale(-1, 1) rotate(-180.000000) translate(-9.981132, -1.297297) "></line>
+                    <line x1="10.8490566" y1="2.16216216" x2="12.5849057" y2="0.432432432" id="Line-11"></line>
+                    <line x1="12.5849057" y1="2.16216157" x2="14.3207547" y2="0.43243184" id="Line-11" transform="translate(13.452830, 1.297297) scale(-1, 1) rotate(-180.000000) translate(-13.452830, -1.297297) "></line>
+                </g>
+                <rect id="Rectangle" fill="#FC8D55" fill-rule="nonzero" x="54.4652249" y="1.59032338" width="3.47169811" height="3.45945946" rx="1"></rect>
+            </g>
+            <polygon id="Polygon" stroke="#D363A8" transform="translate(285.488409, 83.926274) rotate(12.000000) translate(-285.488409, -83.926274) " points="285.488409 80.1947301 289.422273 83.0459523 287.920162 87.6578186 283.056657 87.6578186 281.554546 83.0459523"></polygon>
+            <g id="Dots-square" transform="translate(315.910607, 113.507886) rotate(12.000000) translate(-315.910607, -113.507886) translate(311.410607, 109.007886)" fill="#2081C3" fill-rule="nonzero">
+                <ellipse id="Oval" cx="1.05660377" cy="1.05405405" rx="1.05660377" ry="1.05405405"></ellipse>
+                <ellipse id="Oval" cx="4.22641509" cy="1.05405405" rx="1.05660377" ry="1.05405405"></ellipse>
+                <ellipse id="Oval" cx="7.39622642" cy="1.05405405" rx="1.05660377" ry="1.05405405"></ellipse>
+                <ellipse id="Oval" cx="1.05660377" cy="4.21621622" rx="1.05660377" ry="1.05405405"></ellipse>
+                <ellipse id="Oval" cx="4.22641509" cy="4.21621622" rx="1.05660377" ry="1.05405405"></ellipse>
+                <ellipse id="Oval" cx="7.39622642" cy="4.21621622" rx="1.05660377" ry="1.05405405"></ellipse>
+                <ellipse id="Oval" cx="1.05660377" cy="7.37837838" rx="1.05660377" ry="1.05405405"></ellipse>
+                <ellipse id="Oval" cx="4.22641509" cy="7.37837838" rx="1.05660377" ry="1.05405405"></ellipse>
+                <ellipse id="Oval" cx="7.39622642" cy="7.37837838" rx="1.05660377" ry="1.05405405"></ellipse>
+            </g>
+            <g id="Jagged-line" stroke-linecap="square" transform="translate(351.929399, 108.164371) rotate(32.000000) translate(-351.929399, -108.164371) translate(342.929399, 106.664371)" stroke="#F5A623">
+                <line x1="0.528301887" y1="2.63513514" x2="2.64150943" y2="0.527027027" id="Line-11"></line>
+                <line x1="2.64150943" y1="2.63513497" x2="4.75471698" y2="0.52702686" id="Line-11" transform="translate(3.698113, 1.581081) scale(-1, 1) rotate(-180.000000) translate(-3.698113, -1.581081) "></line>
+                <line x1="4.75471698" y1="2.63513514" x2="6.86792453" y2="0.527027027" id="Line-11"></line>
+                <line x1="6.86792453" y1="2.63513497" x2="8.98113208" y2="0.52702686" id="Line-11" transform="translate(7.924528, 1.581081) scale(-1, 1) rotate(-180.000000) translate(-7.924528, -1.581081) "></line>
+                <line x1="8.98113208" y1="2.63513514" x2="11.0943396" y2="0.527027027" id="Line-11"></line>
+                <line x1="11.0943396" y1="2.63513497" x2="13.2075472" y2="0.52702686" id="Line-11" transform="translate(12.150943, 1.581081) scale(-1, 1) rotate(-180.000000) translate(-12.150943, -1.581081) "></line>
+                <line x1="13.2075472" y1="2.63513514" x2="15.3207547" y2="0.527027027" id="Line-11"></line>
+                <line x1="15.3207547" y1="2.63513497" x2="17.4339623" y2="0.52702686" id="Line-11" transform="translate(16.377358, 1.581081) scale(-1, 1) rotate(-180.000000) translate(-16.377358, -1.581081) "></line>
+            </g>
+            <rect id="Rectangle" fill="#FC8D55" fill-rule="nonzero" transform="translate(305.959426, 68.696904) rotate(12.000000) translate(-305.959426, -68.696904) " x="303.846219" y="66.5887963" width="4.22641509" height="4.21621622" rx="1"></rect>
+            <polygon id="Polygon" stroke="#D363A8" transform="translate(294.402757, 156.068858) rotate(64.000000) translate(-294.402757, -156.068858) " points="294.402756 152.117067 298.578549 155.13706 296.984472 160.020649 291.82104 160.020649 290.226964 155.13706"></polygon>
+            <ellipse id="Oval" stroke="#328A8B" transform="translate(340.824833, 168.698139) rotate(64.000000) translate(-340.824833, -168.698139) " cx="340.824833" cy="168.698139" rx="5.06603774" ry="5.04054054"></ellipse>
+            <ellipse id="Oval" fill="#328A8B" fill-rule="nonzero" transform="translate(340.824833, 168.698139) rotate(64.000000) translate(-340.824833, -168.698139) " cx="340.824833" cy="168.698139" rx="2.22641509" ry="2.21621622"></ellipse>
+            <g id="Dots-square" transform="translate(267.521817, 175.393995) rotate(64.000000) translate(-267.521817, -175.393995) translate(263.021817, 170.893995)" fill="#2081C3" fill-rule="nonzero">
+                <ellipse id="Oval" cx="1.11320755" cy="1.10810811" rx="1.11320755" ry="1.10810811"></ellipse>
+                <ellipse id="Oval" cx="4.45283019" cy="1.10810811" rx="1.11320755" ry="1.10810811"></ellipse>
+                <ellipse id="Oval" cx="7.79245283" cy="1.10810811" rx="1.11320755" ry="1.10810811"></ellipse>
+                <ellipse id="Oval" cx="1.11320755" cy="4.43243243" rx="1.11320755" ry="1.10810811"></ellipse>
+                <ellipse id="Oval" cx="4.45283019" cy="4.43243243" rx="1.11320755" ry="1.10810811"></ellipse>
+                <ellipse id="Oval" cx="7.79245283" cy="4.43243243" rx="1.11320755" ry="1.10810811"></ellipse>
+                <ellipse id="Oval" cx="1.11320755" cy="7.75675676" rx="1.11320755" ry="1.10810811"></ellipse>
+                <ellipse id="Oval" cx="4.45283019" cy="7.75675676" rx="1.11320755" ry="1.10810811"></ellipse>
+                <ellipse id="Oval" cx="7.79245283" cy="7.75675676" rx="1.11320755" ry="1.10810811"></ellipse>
+            </g>
+            <rect id="Rectangle" fill="#FC8D55" fill-rule="nonzero" transform="translate(321.628691, 135.254630) rotate(64.000000) translate(-321.628691, -135.254630) " x="319.402276" y="133.038414" width="4.45283019" height="4.43243243" rx="1"></rect>
+        </g>
+    </g>
+</svg>

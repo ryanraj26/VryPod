@@ -1,15 +1,14 @@
 //
 //  UIImage+Vry.swift
-//  Veryable
+//  VryPod
 //
-//  Created by Isaac Sheets on 10/29/20.
-//  Copyright © 2020 Veryable, Inc. All rights reserved.
+//  Created by Ryan Raj on 3/2/22.
 //
 
 import Foundation
 import UIKit
 
-public extension UIImage {
+extension UIImage {
     func aspectFitImage(inSize size: CGSize, fillColor: VColor? = nil) -> UIImage? {
         let width = self.size.width
         let height = self.size.height

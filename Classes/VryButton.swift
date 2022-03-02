@@ -77,11 +77,13 @@ open class VryButton: UIButton {
         self.snp.makeConstraints {
             $0.height.equalTo(40)
         }
+        layer.cornerRadius = 20
+        layer.masksToBounds = false
         
         
 //        self.clipsToBounds = true
         if let text = text {
-            titleLabel!.font = UIFont.vryAvenirNextDemiBold(13)!//UIFont(name: "AvenirNext-DemiBold", size: size)
+            titleLabel!.font = UIFont(name: "AvenirNext-DemiBold", size: 13)!//UIFont(name: "AvenirNext-DemiBold", size: size)
             setTitle(text.localizedUppercase, for: .normal)
         }
         
@@ -137,11 +139,12 @@ open class VryButton: UIButton {
     }
     
     private func configureFilledButton() {
-        setBackgroundColor(color: ThemeColorFill.blue.color, forState: .normal) //hexStringToUIColor(hex: "#1F81C3")
+        setBackgroundColor(color: hexStringToUIColor(hex: "#1F81C3"), forState: .normal) //
+//        setImage(download_icon, for: .normal)
         self.layer.masksToBounds = false
         self.layer.shadowOffset = CGSize(width: 1.0, height: 2.0)
         self.layer.shadowOpacity = 0.5
-        self.layer.cornerRadius = 14
+//        self.layer.cornerRadius = 14
 //        setImage(UIImage.named(.vaultLogo), for: .normal)
 //        let shadowLayer = CAShapeLayer()
 //        shadowLayer.path = UIBezierPath(roundedRect: bounds, cornerRadius: 12).cgPath
@@ -217,4 +220,24 @@ open class VryButton: UIButton {
             alpha: CGFloat(1.0)
         )
     }
+    
+    private  var podsBundle: Bundle {
+        let bundle = Bundle(for: self.classForCoder)
+            return Bundle(url: bundle.url(forResource: "VryPod",
+                                          withExtension: "bundle")!)!
+        }
+
+        private  func imageFor(name imageName: String) -> UIImage {
+            return UIImage.init(named: imageName, in: podsBundle, compatibleWith: nil)!
+        }
+
+        public  var download_icon: UIImage {
+//            return .named(.vaultLogoWhite, bundle: podsBundle)//imageFor(name: "vault-logo-white")
+            let podbundle = Bundle(for: VryButton.self) // for getting pod url
+                if let url = podbundle.url(forResource: "PodBundle", withExtension: "bundle") { //<YourBundleName> must be the same as you wrote in .podspec
+                    let bundle = Bundle(url: url)
+                    return UIImage(named: "Vault_Logo_WHT", in: bundle, compatibleWith: nil)!
+                }
+                return UIImage()
+        }
 }

@@ -30,19 +30,23 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '11.0'
 
-  s.source_files = '**/*.{h,m,swift,xcassets}'
+  s.source_files = '**/*.{h,m,swift,xcassets,png,svg,jpeg,jpg}'
   s.swift_version = "5.3"
   
   s.platforms = {
       "ios": "11.0"
   }
   
-  s.resources = "**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+#  s.resources = "**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
   
 #   s.resource_bundles = {
-#     'VryPod' => ['VryPod/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}']
+#     'VryPod' => ['VryPod/**/*.{png,svg,jpeg,jpg,storyboard,xib,xcassets}']
 #   }
+   
+   s.resource_bundles = {
+     'PodBundle' => ['VryPod/**/*.bundle']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
    s.frameworks = 'XCTest'
