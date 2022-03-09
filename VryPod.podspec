@@ -25,12 +25,12 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ryanraj26' => 'ryan.raj27@outlook.com' }
-  s.source           = { :git => 'https://github.com/ryanraj26/VryPod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ryanraj26/VryPod.git', :tag => s.version }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'
 
-  s.source_files = 'VryPod/**/*.{swift}'
+  s.source_files = 'VryPod/Classes/**/*'
 #  s.source_files = 'VryPod/**/**' #.{h,m,swift,xcassets,png,svg,jpeg,jpg}'
   s.swift_version = "5.3"
   
