@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '11.0'
 
-  s.source_files = 'VryPod/Source/**/*.{h,m,swift,xcassets,png,svg,jpeg,jpg}'
+  s.source_files = 'VryPod/**/*.{swift}'
 #  s.source_files = 'VryPod/**/**' #.{h,m,swift,xcassets,png,svg,jpeg,jpg}'
   s.swift_version = "5.3"
   
@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
       "ios": "11.0"
   }
   
-  s.resources = "VryPod/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+#  s.resources = "VryPod/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
   
 #   s.resource_bundles = {
